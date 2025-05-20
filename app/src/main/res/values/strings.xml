@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">eApoteka</string>
+    <string name="recycler_view_description">Lista proizvoda u aplikaciji</string>
+    <string name="product_not_found">Proizvod nije pronađen</string>
+    <string name="price_not_available">Cena nije dostupna</string>
+    <string name="no_description_available">Nema opisa</string>
+</resources>

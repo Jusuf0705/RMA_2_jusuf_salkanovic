@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+  <!-- Naslov registracije -->
+  <TextView
+      android:id="@+id/registerTitle"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Registracija"
+      android:textSize="24sp"
+      android:textStyle="bold"
+      android:gravity="center"
+      android:paddingBottom="24dp" />
+
+  <EditText
+      android:id="@+id/emailEditText"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="Email"
+      android:inputType="textEmailAddress"
+      android:minHeight="48dp" />
+
+  <EditText
+      android:id="@+id/passwordEditText"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="Lozinka"
+      android:inputType="textPassword"
+      android:minHeight="48dp"
+      android:layout_marginTop="8dp" />
+
+  <Button
+      android:id="@+id/registerButton"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Registracija"
+      android:layout_marginTop="16dp" />
+
+  <Button
+      android:id="@+id/exitButton"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Izlaz"
+      android:layout_marginTop="8dp" />
+</LinearLayout>

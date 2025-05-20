@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777369690708",
+    "project_id": "eapoteka-e2bd9",
+    "storage_bucket": "eapoteka-e2bd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777369690708:android:8df20ed3dbc7235083c3c1",
+        "android_client_info": {
+          "package_name": "com.example.eapoteka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ZsvkwKidV1_DdcSurJHyPv9jWmB5dGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
